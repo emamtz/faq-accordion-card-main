@@ -1,0 +1,70 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    height: 98vh;
+    width: 98%;
+    display: grid;
+    place-items: center;
+}
+.container {
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    height: 450px;
+    width: 900px;
+    background: hsl(240, 5%, 91%);
+    box-shadow: 1px 1px 30px 30px #5642ae;
+}
+.image1 {
+    height: 10px;
+}
+.image1 svg {
+    margin: -316px 0px 0px -550px;
+}
+.image2 {
+    height: 10px;
+}
+.image2 svg {
+    position: relative;
+    margin: 160px 0px 0px -150px;
+}
+.image3 {
+    height: 10px;
+}
+.image3 svg {
+    margin: 20px 0px 0px -98px;
+}
+.title {
+    margin: 10px 0px 0px 500px;
+}
+.question1 {
+    margin: 10px 0px 0px 500px;
+}
+.answer1 {
+}
+.question2 {
+    margin: 10px 0px 0px 500px;
+}
+.answer2 {
+}
+.question3 {
+    margin: 10px 0px 0px 500px;
+}
+.answer3 {
+}
+.question4 {
+    margin: 10px 0px 0px 500px;
+}
+.answer4 {
+}
+.question5 {
+    margin: 10px 0px 0px 500px;
+}
+.answer5 {
+}
